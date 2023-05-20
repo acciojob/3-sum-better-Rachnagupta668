@@ -25,7 +25,7 @@ function threeSumClosest(nums, target) {
 }
 
 // Example usage:
-// const nums = [-1, 2, 1, -4];
-// const target = 1;
-// const closestSum = threeSumClosest(nums, target);
-// console.log(closestSum); // Output: 2
+ const nums = [-1, 2, 1, -4];
+ const target = 1;
+ const closestSum = threeSumClosest(nums, target);
+ console.log(closestSum); // Output: 2
